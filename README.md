@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning  Javascript, React, ...
-- 💬 Ask me about Javascript ...
-- 📫 How to reach me: mhasim790@gmail.com ...
+- 🌱 I’m currently learning  Javascript, React
+- 💬 Ask me about Javascript
+- 📫 How to reach me: mhasim790@gmail.com
 
 
