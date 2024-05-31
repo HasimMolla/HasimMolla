@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning  Javascript, React
+- 🌱 I’m currently learning  Javascript, React , Next.js
 - 💬 Ask me about Javascript
 - 📫 How to reach me: mhasim790@gmail.com
 
